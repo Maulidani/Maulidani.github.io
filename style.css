@@ -5615,7 +5615,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	background: #f57a08;
 }
 .bg-kotlin {
-	background: #0090d0;
+	background: linear-gradient(to bottom right, #07a, #aa4b9a, #ed6f19);
 }
 .bg-flutter {
 	background: #5cc3f0;
