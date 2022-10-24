@@ -5605,3 +5605,21 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	}
 }
 
+.bg-androidstudio {
+	background: #4ee88e;
+}
+.bg-visualstudiocode {
+	background: #35b1f7;
+}
+.bg-java {
+	background: #f57a08;
+}
+.bg-kotlin {
+	background: #0090d0;
+}
+.bg-flutter {
+	background: #5cc3f0;
+}
+.bg-laravel {
+	background: #e83a2d;
+}
